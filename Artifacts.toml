@@ -27,15 +27,6 @@ os = "linux"
     url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.2+0/ghostbasil.v0.0.2.powerpc64le-linux-gnu.tar.gz"
 [[ghostbasil]]
 arch = "x86_64"
-git-tree-sha1 = "42711b370b2d26640bb4347cbfd0d5bdbe5db663"
-libc = "glibc"
-os = "linux"
-
-    [[ghostbasil.download]]
-    sha256 = "e0d5c3d1df213c5be9785ffe887e06754af713d434a25e2c5aebe202d1610b3c"
-    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.2+0/ghostbasil.v0.0.2.x86_64-linux-gnu.tar.gz"
-[[ghostbasil]]
-arch = "x86_64"
 git-tree-sha1 = "ff3feaafb24df7e4a46588a0ec6bf46c65137825"
 libc = "musl"
 os = "linux"
@@ -143,3 +134,12 @@ os = "linux"
     [[ghostbasil.download]]
     sha256 = "730aec40d6b596fb12d4f220ef4056d9b2f768afa43433909c005bfdb97d6f77"
     url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.3+0/ghostbasil.v0.0.3.x86_64-linux-musl-cxx11.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+git-tree-sha1 = "42711b370b2d26640bb4347cbfd0d5bdbe5db663"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "e0d5c3d1df213c5be9785ffe887e06754af713d434a25e2c5aebe202d1610b3c"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.4+0/ghostbasil.v0.0.4.x86_64-linux-gnu.tar.gz"
