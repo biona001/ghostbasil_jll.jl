@@ -17,15 +17,25 @@ The tarballs for `ghostbasil_jll.jl` have been built from these sources:
 `ghostbasil_jll.jl` is available for the following platforms:
 
 * `Linux aarch64 {cxxstring_abi=cxx03, julia_version=1.9.0, libc=glibc}` (`aarch64-linux-gnu-cxx03-julia_version+1.9.0`)
+* `Linux aarch64 {cxxstring_abi=cxx03, julia_version=1.9.3, libc=glibc}` (`aarch64-linux-gnu-cxx03-julia_version+1.9.3`)
 * `Linux aarch64 {cxxstring_abi=cxx11, julia_version=1.9.0, libc=glibc}` (`aarch64-linux-gnu-cxx11-julia_version+1.9.0`)
+* `Linux aarch64 {cxxstring_abi=cxx11, julia_version=1.9.3, libc=glibc}` (`aarch64-linux-gnu-cxx11-julia_version+1.9.3`)
 * `Linux aarch64 {cxxstring_abi=cxx03, julia_version=1.9.0, libc=musl}` (`aarch64-linux-musl-cxx03-julia_version+1.9.0`)
+* `Linux aarch64 {cxxstring_abi=cxx03, julia_version=1.9.3, libc=musl}` (`aarch64-linux-musl-cxx03-julia_version+1.9.3`)
 * `Linux aarch64 {cxxstring_abi=cxx11, julia_version=1.9.0, libc=musl}` (`aarch64-linux-musl-cxx11-julia_version+1.9.0`)
+* `Linux aarch64 {cxxstring_abi=cxx11, julia_version=1.9.3, libc=musl}` (`aarch64-linux-musl-cxx11-julia_version+1.9.3`)
 * `Linux powerpc64le {cxxstring_abi=cxx03, julia_version=1.9.0, libc=glibc}` (`powerpc64le-linux-gnu-cxx03-julia_version+1.9.0`)
+* `Linux powerpc64le {cxxstring_abi=cxx03, julia_version=1.9.3, libc=glibc}` (`powerpc64le-linux-gnu-cxx03-julia_version+1.9.3`)
 * `Linux powerpc64le {cxxstring_abi=cxx11, julia_version=1.9.0, libc=glibc}` (`powerpc64le-linux-gnu-cxx11-julia_version+1.9.0`)
+* `Linux powerpc64le {cxxstring_abi=cxx11, julia_version=1.9.3, libc=glibc}` (`powerpc64le-linux-gnu-cxx11-julia_version+1.9.3`)
 * `Linux x86_64 {cxxstring_abi=cxx03, julia_version=1.9.0, libc=glibc}` (`x86_64-linux-gnu-cxx03-julia_version+1.9.0`)
+* `Linux x86_64 {cxxstring_abi=cxx03, julia_version=1.9.3, libc=glibc}` (`x86_64-linux-gnu-cxx03-julia_version+1.9.3`)
 * `Linux x86_64 {cxxstring_abi=cxx11, julia_version=1.9.0, libc=glibc}` (`x86_64-linux-gnu-cxx11-julia_version+1.9.0`)
+* `Linux x86_64 {cxxstring_abi=cxx11, julia_version=1.9.3, libc=glibc}` (`x86_64-linux-gnu-cxx11-julia_version+1.9.3`)
 * `Linux x86_64 {cxxstring_abi=cxx03, julia_version=1.9.0, libc=musl}` (`x86_64-linux-musl-cxx03-julia_version+1.9.0`)
+* `Linux x86_64 {cxxstring_abi=cxx03, julia_version=1.9.3, libc=musl}` (`x86_64-linux-musl-cxx03-julia_version+1.9.3`)
 * `Linux x86_64 {cxxstring_abi=cxx11, julia_version=1.9.0, libc=musl}` (`x86_64-linux-musl-cxx11-julia_version+1.9.0`)
+* `Linux x86_64 {cxxstring_abi=cxx11, julia_version=1.9.3, libc=musl}` (`x86_64-linux-musl-cxx11-julia_version+1.9.3`)
 
 ## Dependencies
 
