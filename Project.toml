@@ -1,6 +1,6 @@
 name = "ghostbasil_jll"
 uuid = "caeec347-1c5e-53ac-8e86-7f5e1a690164"
-version = "0.0.1+0"
+version = "0.0.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
