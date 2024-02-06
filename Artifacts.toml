@@ -5203,3 +5203,1323 @@ os = "linux"
     [[ghostbasil.download]]
     sha256 = "e72ca1eb3c72cec7fdf3c0a7c2027b6567ca68487d7f9b84724a0c265283bcca"
     url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.13+0/ghostbasil.v0.0.13.x86_64-linux-musl-cxx11-julia_version+1.9.4.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "76df5eceb3ebe8fbe61c2626a9321cde49a64012"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "9f3356895fafc0958e95e43413f9b068493431f7819c02457d326b8a4e9870e9"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7f45e6c400749b0b842c3743d1e5f7d0d169a945"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "20d6c92b8f00c9070c51e5deb479fc17ec5abc00bc61bcd965ca93d096ef831d"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7f45e6c400749b0b842c3743d1e5f7d0d169a945"
+julia_version = "1.8.1"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "20d6c92b8f00c9070c51e5deb479fc17ec5abc00bc61bcd965ca93d096ef831d"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx03-julia_version+1.8.1.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7f45e6c400749b0b842c3743d1e5f7d0d169a945"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "20d6c92b8f00c9070c51e5deb479fc17ec5abc00bc61bcd965ca93d096ef831d"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7f45e6c400749b0b842c3743d1e5f7d0d169a945"
+julia_version = "1.8.3"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "20d6c92b8f00c9070c51e5deb479fc17ec5abc00bc61bcd965ca93d096ef831d"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx03-julia_version+1.8.3.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7f45e6c400749b0b842c3743d1e5f7d0d169a945"
+julia_version = "1.8.4"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "20d6c92b8f00c9070c51e5deb479fc17ec5abc00bc61bcd965ca93d096ef831d"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx03-julia_version+1.8.4.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7f45e6c400749b0b842c3743d1e5f7d0d169a945"
+julia_version = "1.8.5"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "20d6c92b8f00c9070c51e5deb479fc17ec5abc00bc61bcd965ca93d096ef831d"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx03-julia_version+1.8.5.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "61bc27c79e07442833b018005eed22dc8812d8f5"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "415e8ff22dfc0f3199c75147bb0e900951a5de1d661b575029f8f3748f818519"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "61bc27c79e07442833b018005eed22dc8812d8f5"
+julia_version = "1.9.1"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "415e8ff22dfc0f3199c75147bb0e900951a5de1d661b575029f8f3748f818519"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx03-julia_version+1.9.1.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "61bc27c79e07442833b018005eed22dc8812d8f5"
+julia_version = "1.9.2"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "415e8ff22dfc0f3199c75147bb0e900951a5de1d661b575029f8f3748f818519"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx03-julia_version+1.9.2.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "61bc27c79e07442833b018005eed22dc8812d8f5"
+julia_version = "1.9.3"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "415e8ff22dfc0f3199c75147bb0e900951a5de1d661b575029f8f3748f818519"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx03-julia_version+1.9.3.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "61bc27c79e07442833b018005eed22dc8812d8f5"
+julia_version = "1.9.4"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "415e8ff22dfc0f3199c75147bb0e900951a5de1d661b575029f8f3748f818519"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx03-julia_version+1.9.4.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b8ddd7c9a3f3050d5c981c7a20157fb9d2b36e01"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "f1cc074bd38fba4234f3b69b12dd0dbbcc3d9437bdee6f0a8052a7c4d9e2c1b8"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c4d9797ffecda48482b95b6b4e5b595225cb4b6"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "d668e5cd4f353a283be1b27d9cd3d7c82f844bae1c219b5a93378ac3cc293a18"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c4d9797ffecda48482b95b6b4e5b595225cb4b6"
+julia_version = "1.8.1"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "d668e5cd4f353a283be1b27d9cd3d7c82f844bae1c219b5a93378ac3cc293a18"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx11-julia_version+1.8.1.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c4d9797ffecda48482b95b6b4e5b595225cb4b6"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "d668e5cd4f353a283be1b27d9cd3d7c82f844bae1c219b5a93378ac3cc293a18"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c4d9797ffecda48482b95b6b4e5b595225cb4b6"
+julia_version = "1.8.3"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "d668e5cd4f353a283be1b27d9cd3d7c82f844bae1c219b5a93378ac3cc293a18"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx11-julia_version+1.8.3.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c4d9797ffecda48482b95b6b4e5b595225cb4b6"
+julia_version = "1.8.4"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "d668e5cd4f353a283be1b27d9cd3d7c82f844bae1c219b5a93378ac3cc293a18"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx11-julia_version+1.8.4.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c4d9797ffecda48482b95b6b4e5b595225cb4b6"
+julia_version = "1.8.5"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "d668e5cd4f353a283be1b27d9cd3d7c82f844bae1c219b5a93378ac3cc293a18"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx11-julia_version+1.8.5.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "48319a1fadb971ec97b0001b4207bbb7db3569ab"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "0c6916072cd9f1b03965a8d2bce61c6c3b2fe3418715078ab7184d9a7a8f2316"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "48319a1fadb971ec97b0001b4207bbb7db3569ab"
+julia_version = "1.9.1"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "0c6916072cd9f1b03965a8d2bce61c6c3b2fe3418715078ab7184d9a7a8f2316"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx11-julia_version+1.9.1.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "48319a1fadb971ec97b0001b4207bbb7db3569ab"
+julia_version = "1.9.2"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "0c6916072cd9f1b03965a8d2bce61c6c3b2fe3418715078ab7184d9a7a8f2316"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx11-julia_version+1.9.2.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "48319a1fadb971ec97b0001b4207bbb7db3569ab"
+julia_version = "1.9.3"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "0c6916072cd9f1b03965a8d2bce61c6c3b2fe3418715078ab7184d9a7a8f2316"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx11-julia_version+1.9.3.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "48319a1fadb971ec97b0001b4207bbb7db3569ab"
+julia_version = "1.9.4"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "0c6916072cd9f1b03965a8d2bce61c6c3b2fe3418715078ab7184d9a7a8f2316"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-gnu-cxx11-julia_version+1.9.4.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ff67fbfcdb61e7fd4636a77f073f1bc6e02f11a8"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "f300e04a907731e04ab79af42c651f301c12ec175bc819031fe68da9d2caff07"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4d40031df60ab9e3e6ef2c38512b4c33b8ff55b4"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "68054d366990d870c75b230144df18bdc36b89c61d3807671b96574f16062aea"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx03-julia_version+1.8.0.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4d40031df60ab9e3e6ef2c38512b4c33b8ff55b4"
+julia_version = "1.8.1"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "68054d366990d870c75b230144df18bdc36b89c61d3807671b96574f16062aea"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx03-julia_version+1.8.1.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4d40031df60ab9e3e6ef2c38512b4c33b8ff55b4"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "68054d366990d870c75b230144df18bdc36b89c61d3807671b96574f16062aea"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4d40031df60ab9e3e6ef2c38512b4c33b8ff55b4"
+julia_version = "1.8.3"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "68054d366990d870c75b230144df18bdc36b89c61d3807671b96574f16062aea"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx03-julia_version+1.8.3.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4d40031df60ab9e3e6ef2c38512b4c33b8ff55b4"
+julia_version = "1.8.4"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "68054d366990d870c75b230144df18bdc36b89c61d3807671b96574f16062aea"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx03-julia_version+1.8.4.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4d40031df60ab9e3e6ef2c38512b4c33b8ff55b4"
+julia_version = "1.8.5"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "68054d366990d870c75b230144df18bdc36b89c61d3807671b96574f16062aea"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx03-julia_version+1.8.5.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "894c25f764b0317450ab3866e76a85fe26332ed7"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "6e8c56f644cd84f6e943525128f7ab1d5d30dcc87754e7f5542ce14e10b81a83"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "894c25f764b0317450ab3866e76a85fe26332ed7"
+julia_version = "1.9.1"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "6e8c56f644cd84f6e943525128f7ab1d5d30dcc87754e7f5542ce14e10b81a83"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx03-julia_version+1.9.1.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "894c25f764b0317450ab3866e76a85fe26332ed7"
+julia_version = "1.9.2"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "6e8c56f644cd84f6e943525128f7ab1d5d30dcc87754e7f5542ce14e10b81a83"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx03-julia_version+1.9.2.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "894c25f764b0317450ab3866e76a85fe26332ed7"
+julia_version = "1.9.3"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "6e8c56f644cd84f6e943525128f7ab1d5d30dcc87754e7f5542ce14e10b81a83"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx03-julia_version+1.9.3.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "894c25f764b0317450ab3866e76a85fe26332ed7"
+julia_version = "1.9.4"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "6e8c56f644cd84f6e943525128f7ab1d5d30dcc87754e7f5542ce14e10b81a83"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx03-julia_version+1.9.4.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "66a83da5d7d58fbf9a29b2959bff4cc5f1865f47"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "199e8a689ac281601ae73ce39950e9fb676da3ea84bcb5fe6de3edf7931780af"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21b43e211aac31e76d6529df0d6e7a07f6c2f002"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "7480182e65dd5472409fc98e552f3394b18ae825378f99e3205492734a2bf27c"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx11-julia_version+1.8.0.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21b43e211aac31e76d6529df0d6e7a07f6c2f002"
+julia_version = "1.8.1"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "7480182e65dd5472409fc98e552f3394b18ae825378f99e3205492734a2bf27c"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx11-julia_version+1.8.1.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21b43e211aac31e76d6529df0d6e7a07f6c2f002"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "7480182e65dd5472409fc98e552f3394b18ae825378f99e3205492734a2bf27c"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21b43e211aac31e76d6529df0d6e7a07f6c2f002"
+julia_version = "1.8.3"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "7480182e65dd5472409fc98e552f3394b18ae825378f99e3205492734a2bf27c"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx11-julia_version+1.8.3.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21b43e211aac31e76d6529df0d6e7a07f6c2f002"
+julia_version = "1.8.4"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "7480182e65dd5472409fc98e552f3394b18ae825378f99e3205492734a2bf27c"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx11-julia_version+1.8.4.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21b43e211aac31e76d6529df0d6e7a07f6c2f002"
+julia_version = "1.8.5"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "7480182e65dd5472409fc98e552f3394b18ae825378f99e3205492734a2bf27c"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx11-julia_version+1.8.5.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2c40bfe24690510211f457cda3bbedb4199d9878"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "e7ba07ce2a791ec067a7050048c46ededa9f572805fa2f722cdf9bcdb87f2e70"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2c40bfe24690510211f457cda3bbedb4199d9878"
+julia_version = "1.9.1"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "e7ba07ce2a791ec067a7050048c46ededa9f572805fa2f722cdf9bcdb87f2e70"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx11-julia_version+1.9.1.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2c40bfe24690510211f457cda3bbedb4199d9878"
+julia_version = "1.9.2"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "e7ba07ce2a791ec067a7050048c46ededa9f572805fa2f722cdf9bcdb87f2e70"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx11-julia_version+1.9.2.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2c40bfe24690510211f457cda3bbedb4199d9878"
+julia_version = "1.9.3"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "e7ba07ce2a791ec067a7050048c46ededa9f572805fa2f722cdf9bcdb87f2e70"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx11-julia_version+1.9.3.tar.gz"
+[[ghostbasil]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2c40bfe24690510211f457cda3bbedb4199d9878"
+julia_version = "1.9.4"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "e7ba07ce2a791ec067a7050048c46ededa9f572805fa2f722cdf9bcdb87f2e70"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.aarch64-linux-musl-cxx11-julia_version+1.9.4.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "73522dc9253e5fb95127a92f6678251c9e92b2d7"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "fde59ce6cd193deb714093c5fa6e2b9b155b2b6a2451c155d00b5974ec05d545"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c456d55ec46c16b7d33932635f4cf669a9d684d2"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "850a4263e9ce1276b16abb74fc8cbacd98938a11a5977ce2f2e92bdc3abc1f8d"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c456d55ec46c16b7d33932635f4cf669a9d684d2"
+julia_version = "1.8.1"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "850a4263e9ce1276b16abb74fc8cbacd98938a11a5977ce2f2e92bdc3abc1f8d"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx03-julia_version+1.8.1.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c456d55ec46c16b7d33932635f4cf669a9d684d2"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "850a4263e9ce1276b16abb74fc8cbacd98938a11a5977ce2f2e92bdc3abc1f8d"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c456d55ec46c16b7d33932635f4cf669a9d684d2"
+julia_version = "1.8.3"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "850a4263e9ce1276b16abb74fc8cbacd98938a11a5977ce2f2e92bdc3abc1f8d"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx03-julia_version+1.8.3.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c456d55ec46c16b7d33932635f4cf669a9d684d2"
+julia_version = "1.8.4"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "850a4263e9ce1276b16abb74fc8cbacd98938a11a5977ce2f2e92bdc3abc1f8d"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx03-julia_version+1.8.4.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c456d55ec46c16b7d33932635f4cf669a9d684d2"
+julia_version = "1.8.5"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "850a4263e9ce1276b16abb74fc8cbacd98938a11a5977ce2f2e92bdc3abc1f8d"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx03-julia_version+1.8.5.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "073c176f889484ab83eeb6227963c139425004bc"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "2edbf1f05b83756eaf1e98f58e63cf4559865d1dfb55a4ed9a1bdd2618c9ea99"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "073c176f889484ab83eeb6227963c139425004bc"
+julia_version = "1.9.1"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "2edbf1f05b83756eaf1e98f58e63cf4559865d1dfb55a4ed9a1bdd2618c9ea99"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx03-julia_version+1.9.1.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "073c176f889484ab83eeb6227963c139425004bc"
+julia_version = "1.9.2"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "2edbf1f05b83756eaf1e98f58e63cf4559865d1dfb55a4ed9a1bdd2618c9ea99"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx03-julia_version+1.9.2.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "073c176f889484ab83eeb6227963c139425004bc"
+julia_version = "1.9.3"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "2edbf1f05b83756eaf1e98f58e63cf4559865d1dfb55a4ed9a1bdd2618c9ea99"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx03-julia_version+1.9.3.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "073c176f889484ab83eeb6227963c139425004bc"
+julia_version = "1.9.4"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "2edbf1f05b83756eaf1e98f58e63cf4559865d1dfb55a4ed9a1bdd2618c9ea99"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx03-julia_version+1.9.4.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "497e685d90b1bc57c106f1835461b0a214049b9e"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "c9d52499ef56a338de431990fa20276f126df6535baf7cbe8ef46fe1dc269575"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8c23716bd561662d20e4c2fdb8dd36bd5d281982"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "4c1284cba2b0e6a9a7472cd0574247be78b36515182ab6e552bf72a78b664bd0"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8c23716bd561662d20e4c2fdb8dd36bd5d281982"
+julia_version = "1.8.1"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "4c1284cba2b0e6a9a7472cd0574247be78b36515182ab6e552bf72a78b664bd0"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx11-julia_version+1.8.1.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8c23716bd561662d20e4c2fdb8dd36bd5d281982"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "4c1284cba2b0e6a9a7472cd0574247be78b36515182ab6e552bf72a78b664bd0"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8c23716bd561662d20e4c2fdb8dd36bd5d281982"
+julia_version = "1.8.3"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "4c1284cba2b0e6a9a7472cd0574247be78b36515182ab6e552bf72a78b664bd0"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx11-julia_version+1.8.3.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8c23716bd561662d20e4c2fdb8dd36bd5d281982"
+julia_version = "1.8.4"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "4c1284cba2b0e6a9a7472cd0574247be78b36515182ab6e552bf72a78b664bd0"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx11-julia_version+1.8.4.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8c23716bd561662d20e4c2fdb8dd36bd5d281982"
+julia_version = "1.8.5"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "4c1284cba2b0e6a9a7472cd0574247be78b36515182ab6e552bf72a78b664bd0"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx11-julia_version+1.8.5.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ed94007abd231ba6f097668518387d086a75faa5"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "64d17fa0dec3b1895c9296b845960a4c92b881347492ee9bc9bdf1b070302566"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ed94007abd231ba6f097668518387d086a75faa5"
+julia_version = "1.9.1"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "64d17fa0dec3b1895c9296b845960a4c92b881347492ee9bc9bdf1b070302566"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx11-julia_version+1.9.1.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ed94007abd231ba6f097668518387d086a75faa5"
+julia_version = "1.9.2"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "64d17fa0dec3b1895c9296b845960a4c92b881347492ee9bc9bdf1b070302566"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx11-julia_version+1.9.2.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ed94007abd231ba6f097668518387d086a75faa5"
+julia_version = "1.9.3"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "64d17fa0dec3b1895c9296b845960a4c92b881347492ee9bc9bdf1b070302566"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx11-julia_version+1.9.3.tar.gz"
+[[ghostbasil]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ed94007abd231ba6f097668518387d086a75faa5"
+julia_version = "1.9.4"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "64d17fa0dec3b1895c9296b845960a4c92b881347492ee9bc9bdf1b070302566"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.powerpc64le-linux-gnu-cxx11-julia_version+1.9.4.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6cac14f0054be73904fb4028babd2cc4977f19c7"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "2773e8b5a6710b49b00b1f6c2f728bd63e90b0bbd8c8aea65bb5e177d13a8fe6"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a31cc4a92b493d357eb568111589d3daaf422f30"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "392646c5076ad6351df111216e6119b769554b6060a8845da2fd046d9e804b8f"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a31cc4a92b493d357eb568111589d3daaf422f30"
+julia_version = "1.8.1"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "392646c5076ad6351df111216e6119b769554b6060a8845da2fd046d9e804b8f"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx03-julia_version+1.8.1.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a31cc4a92b493d357eb568111589d3daaf422f30"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "392646c5076ad6351df111216e6119b769554b6060a8845da2fd046d9e804b8f"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a31cc4a92b493d357eb568111589d3daaf422f30"
+julia_version = "1.8.3"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "392646c5076ad6351df111216e6119b769554b6060a8845da2fd046d9e804b8f"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx03-julia_version+1.8.3.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a31cc4a92b493d357eb568111589d3daaf422f30"
+julia_version = "1.8.4"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "392646c5076ad6351df111216e6119b769554b6060a8845da2fd046d9e804b8f"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx03-julia_version+1.8.4.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a31cc4a92b493d357eb568111589d3daaf422f30"
+julia_version = "1.8.5"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "392646c5076ad6351df111216e6119b769554b6060a8845da2fd046d9e804b8f"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx03-julia_version+1.8.5.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f270ee601b50f16bb3dc93554d925dc390039396"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "d4264843cc83f7d3cabfeba91f482b8c7de4dc8d3c9ce9a2adf2ff95e700f5c9"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f270ee601b50f16bb3dc93554d925dc390039396"
+julia_version = "1.9.1"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "d4264843cc83f7d3cabfeba91f482b8c7de4dc8d3c9ce9a2adf2ff95e700f5c9"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx03-julia_version+1.9.1.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f270ee601b50f16bb3dc93554d925dc390039396"
+julia_version = "1.9.2"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "d4264843cc83f7d3cabfeba91f482b8c7de4dc8d3c9ce9a2adf2ff95e700f5c9"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx03-julia_version+1.9.2.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f270ee601b50f16bb3dc93554d925dc390039396"
+julia_version = "1.9.3"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "d4264843cc83f7d3cabfeba91f482b8c7de4dc8d3c9ce9a2adf2ff95e700f5c9"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx03-julia_version+1.9.3.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f270ee601b50f16bb3dc93554d925dc390039396"
+julia_version = "1.9.4"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "d4264843cc83f7d3cabfeba91f482b8c7de4dc8d3c9ce9a2adf2ff95e700f5c9"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx03-julia_version+1.9.4.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cfebcda84adb348786ee595a997263c03a04cec0"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "207431abd27f4ab4b4bfd6d403737d6acc0f297cdeead12f4cab01ce71ca123d"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "590da99398d739e36af0a41671989dd9939981de"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "84597a375b8de478d0da1b4b0c5263ab72ce7abf3f25bb6fa09cd0ce3923fe16"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "590da99398d739e36af0a41671989dd9939981de"
+julia_version = "1.8.1"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "84597a375b8de478d0da1b4b0c5263ab72ce7abf3f25bb6fa09cd0ce3923fe16"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx11-julia_version+1.8.1.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "590da99398d739e36af0a41671989dd9939981de"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "84597a375b8de478d0da1b4b0c5263ab72ce7abf3f25bb6fa09cd0ce3923fe16"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "590da99398d739e36af0a41671989dd9939981de"
+julia_version = "1.8.3"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "84597a375b8de478d0da1b4b0c5263ab72ce7abf3f25bb6fa09cd0ce3923fe16"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx11-julia_version+1.8.3.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "590da99398d739e36af0a41671989dd9939981de"
+julia_version = "1.8.4"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "84597a375b8de478d0da1b4b0c5263ab72ce7abf3f25bb6fa09cd0ce3923fe16"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx11-julia_version+1.8.4.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "590da99398d739e36af0a41671989dd9939981de"
+julia_version = "1.8.5"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "84597a375b8de478d0da1b4b0c5263ab72ce7abf3f25bb6fa09cd0ce3923fe16"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx11-julia_version+1.8.5.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b38b6d9e234a914539d9d24797729b34f17fe9e"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "425b66f302f65ae19f2ce21230dd8538c6a71c3a15fa78c3c029db651042c993"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b38b6d9e234a914539d9d24797729b34f17fe9e"
+julia_version = "1.9.1"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "425b66f302f65ae19f2ce21230dd8538c6a71c3a15fa78c3c029db651042c993"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx11-julia_version+1.9.1.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b38b6d9e234a914539d9d24797729b34f17fe9e"
+julia_version = "1.9.2"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "425b66f302f65ae19f2ce21230dd8538c6a71c3a15fa78c3c029db651042c993"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx11-julia_version+1.9.2.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b38b6d9e234a914539d9d24797729b34f17fe9e"
+julia_version = "1.9.3"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "425b66f302f65ae19f2ce21230dd8538c6a71c3a15fa78c3c029db651042c993"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx11-julia_version+1.9.3.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b38b6d9e234a914539d9d24797729b34f17fe9e"
+julia_version = "1.9.4"
+libc = "glibc"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "425b66f302f65ae19f2ce21230dd8538c6a71c3a15fa78c3c029db651042c993"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-gnu-cxx11-julia_version+1.9.4.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6e9e906913628b922865874feae844c911b837b4"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "fc8cb422c4832d6af2ecf3a6a50b2b5b4a23a7c6303dcb9abca0ebc03108c419"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6a9c2cdfab3e4e43ad925f4c6d86520d16b15522"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "7a6d54d6882a6c5606ef9e2a7206d2f575fe5e4984a76d976604f47701e9c079"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx03-julia_version+1.8.0.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6a9c2cdfab3e4e43ad925f4c6d86520d16b15522"
+julia_version = "1.8.1"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "7a6d54d6882a6c5606ef9e2a7206d2f575fe5e4984a76d976604f47701e9c079"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx03-julia_version+1.8.1.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6a9c2cdfab3e4e43ad925f4c6d86520d16b15522"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "7a6d54d6882a6c5606ef9e2a7206d2f575fe5e4984a76d976604f47701e9c079"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6a9c2cdfab3e4e43ad925f4c6d86520d16b15522"
+julia_version = "1.8.3"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "7a6d54d6882a6c5606ef9e2a7206d2f575fe5e4984a76d976604f47701e9c079"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx03-julia_version+1.8.3.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6a9c2cdfab3e4e43ad925f4c6d86520d16b15522"
+julia_version = "1.8.4"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "7a6d54d6882a6c5606ef9e2a7206d2f575fe5e4984a76d976604f47701e9c079"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx03-julia_version+1.8.4.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6a9c2cdfab3e4e43ad925f4c6d86520d16b15522"
+julia_version = "1.8.5"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "7a6d54d6882a6c5606ef9e2a7206d2f575fe5e4984a76d976604f47701e9c079"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx03-julia_version+1.8.5.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1ac34e64a216dc2336c37d54737c2b921612fa85"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "90bc751b075e33a4cf4c8371d77fe7e260ff9280b805d395ba4b4d22d35df17c"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1ac34e64a216dc2336c37d54737c2b921612fa85"
+julia_version = "1.9.1"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "90bc751b075e33a4cf4c8371d77fe7e260ff9280b805d395ba4b4d22d35df17c"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx03-julia_version+1.9.1.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1ac34e64a216dc2336c37d54737c2b921612fa85"
+julia_version = "1.9.2"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "90bc751b075e33a4cf4c8371d77fe7e260ff9280b805d395ba4b4d22d35df17c"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx03-julia_version+1.9.2.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1ac34e64a216dc2336c37d54737c2b921612fa85"
+julia_version = "1.9.3"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "90bc751b075e33a4cf4c8371d77fe7e260ff9280b805d395ba4b4d22d35df17c"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx03-julia_version+1.9.3.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1ac34e64a216dc2336c37d54737c2b921612fa85"
+julia_version = "1.9.4"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "90bc751b075e33a4cf4c8371d77fe7e260ff9280b805d395ba4b4d22d35df17c"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx03-julia_version+1.9.4.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2e68d15107360829de6d753fbf4249bb806c03c9"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "5cff49ee08b12bdfa35f50cc131471f8e38635b518125f8bc832c06cf4b36ca2"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "45519daf061abdc5d394fe68c2108c427bfefc72"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "b72e367a6c960a041b5be2d96444f659d6b581f452e094d8a55a0a5b782d200e"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx11-julia_version+1.8.0.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "45519daf061abdc5d394fe68c2108c427bfefc72"
+julia_version = "1.8.1"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "b72e367a6c960a041b5be2d96444f659d6b581f452e094d8a55a0a5b782d200e"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx11-julia_version+1.8.1.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "45519daf061abdc5d394fe68c2108c427bfefc72"
+julia_version = "1.8.2"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "b72e367a6c960a041b5be2d96444f659d6b581f452e094d8a55a0a5b782d200e"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "45519daf061abdc5d394fe68c2108c427bfefc72"
+julia_version = "1.8.3"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "b72e367a6c960a041b5be2d96444f659d6b581f452e094d8a55a0a5b782d200e"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx11-julia_version+1.8.3.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "45519daf061abdc5d394fe68c2108c427bfefc72"
+julia_version = "1.8.4"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "b72e367a6c960a041b5be2d96444f659d6b581f452e094d8a55a0a5b782d200e"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx11-julia_version+1.8.4.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "45519daf061abdc5d394fe68c2108c427bfefc72"
+julia_version = "1.8.5"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "b72e367a6c960a041b5be2d96444f659d6b581f452e094d8a55a0a5b782d200e"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx11-julia_version+1.8.5.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6b9b12fb7ed64bc1fe578d80a33f695f472b96cd"
+julia_version = "1.9.0"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "e72ca1eb3c72cec7fdf3c0a7c2027b6567ca68487d7f9b84724a0c265283bcca"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6b9b12fb7ed64bc1fe578d80a33f695f472b96cd"
+julia_version = "1.9.1"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "e72ca1eb3c72cec7fdf3c0a7c2027b6567ca68487d7f9b84724a0c265283bcca"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx11-julia_version+1.9.1.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6b9b12fb7ed64bc1fe578d80a33f695f472b96cd"
+julia_version = "1.9.2"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "e72ca1eb3c72cec7fdf3c0a7c2027b6567ca68487d7f9b84724a0c265283bcca"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx11-julia_version+1.9.2.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6b9b12fb7ed64bc1fe578d80a33f695f472b96cd"
+julia_version = "1.9.3"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "e72ca1eb3c72cec7fdf3c0a7c2027b6567ca68487d7f9b84724a0c265283bcca"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx11-julia_version+1.9.3.tar.gz"
+[[ghostbasil]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6b9b12fb7ed64bc1fe578d80a33f695f472b96cd"
+julia_version = "1.9.4"
+libc = "musl"
+os = "linux"
+
+    [[ghostbasil.download]]
+    sha256 = "e72ca1eb3c72cec7fdf3c0a7c2027b6567ca68487d7f9b84724a0c265283bcca"
+    url = "https://github.com/biona001/ghostbasil_jll.jl/releases/download/ghostbasil-v0.0.14+0/ghostbasil.v0.0.14.x86_64-linux-musl-cxx11-julia_version+1.9.4.tar.gz"
